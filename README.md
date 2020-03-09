@@ -9,12 +9,12 @@ White wallpapers. The original file of these are gone. Sorry.
 - [make-with-lisp, with lisp alien bar](01_make-with-lisp/make-with-lisp_a.jpeg)
 - [make-with-lisp](01_make-with-lisp/make-with-lisp_b.jpeg)
 
-## 02 make Lisp great again
+## 02 towards the Land of Lisp
 
 Black wallpaper.
 
-- [make-lisp-great-again](02_make-lisp-great-again/make-lisp-great-again.png)
-- [make-lisp-great-again, the oiginal GIMP file](02_make-lisp-great-again/make-lisp-great-again.xcf)
+- [towards-the-land-of-lisp](02_towards-the-land-of-lisp/towards-the-land-of-lisp.png)
+- [towards-the-land-of-lisp, the oiginal GIMP file](02_towards-the-land-of-lisp/towards-the-land-of-lisp.xcf)
 
 ## 03 evolutin of Lisp
 
