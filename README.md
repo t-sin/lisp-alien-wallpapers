@@ -30,6 +30,6 @@ Black and white wallpapers.
 
 ## License
 
-Lisp aliens are designed by [Conrad Barski](http://www.lisperati.com/logo.html).
-Because of this wallpapers based on his works, these works should be CC0.
-(or correct me).
+These wallpapers are licensed under CC0. Feel free to use or modify these.
+
+Lisp aliens are designed by [Conrad Barski](http://www.lisperati.com/logo.html). This wallpapers are based on his works. Thanks!
