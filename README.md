@@ -24,6 +24,15 @@ Black and white wallpapers.
 - [evolution-of-lisp, black version](03_evolution-of-lisp/evolution-of-lisp-aliens_black.png)
 - [evolution-of-lisp, the original SVG file](03_evolution-of-lisp/evolution-of-lisp-aliens.svg)
 
+## 04 multi-paradigm programming language
+
+Light green wallpaper.
+
+- [multi-paradigm programming language](04_multi-paradigm-programming-language/multi-paradigm-programming-language.png)
+- [multi-paradigm programming language, GIMP file](04_multi-paradigm-programming-language/multi-paradigm-programming-language.xcf)
+- [polygon Lisp alien, SVG file](04_multi-paradigm-programming-language/polygon-lisp-alien.svg)
+- ["Multi-paradigm Programming Language Common Lisp" Japanese logo, SVG file](04_multi-paradigm-programming-language/common-lisp.svg)
+
 ## Author
 
 - Shinichi Tanaka (<shinichi.tanaka45@gmail.com>)

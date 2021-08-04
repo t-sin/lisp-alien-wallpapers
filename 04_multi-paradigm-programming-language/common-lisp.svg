@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   sodipodi:docname="common-lisp.svg"
+   inkscape:export-filename="/home/grey/common-lisp.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient927"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop925" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="295.71429"
+     inkscape:cy="375.71429"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:window-width="2504"
+     inkscape:window-height="1376"
+     inkscape:window-x="56"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#edfced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.226273;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect899"
+       width="180.48364"
+       height="67.468742"
+       x="22.489584"
+       y="52.827377" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.3492px;line-height:125%;font-family:GauFontShirousagi;-inkscape-font-specification:'GauFontShirousagi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396082px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.211103"
+       y="138.7599"
+       id="text817-4" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot847"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:125%;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion849"><rect
+           id="rect851"
+           width="85.357887"
+           height="48.992397"
+           x="107.58125"
+           y="454.30377" /></flowRegion><flowPara
+         id="flowPara853" /></flowRoot>
+    <text
+       id="text867"
+       y="137.89201"
+       x="26.657585"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.3492px;line-height:125%;font-family:GauFontShirousagi;-inkscape-font-specification:'GauFontShirousagi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396082px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:125%;font-family:GauFontShirousagi;-inkscape-font-specification:'GauFontShirousagi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="64.67923"
+       y="68.217285"
+       id="text871" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.05467px;line-height:125%;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#399741;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="33.546406"
+       y="79.063843"
+       id="text877"
+       transform="scale(1.1342368,0.88165012)"><tspan
+         sodipodi:role="line"
+         x="33.546406"
+         y="79.063843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.05467px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#399741;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan883">j.aIoQe]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.2643px;line-height:125%;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#399741;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="87.122322"
+       y="85.489067"
+       id="text893"
+       transform="scale(1.0825595,0.92373675)"><tspan
+         sodipodi:role="line"
+         x="87.122322"
+         y="85.489067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.2643px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#399741;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan895">K_HonyH*yB</tspan></text>
+    <g
+       aria-label="bmylrK"
+       transform="matrix(0.82155998,0,0,1.2361948,0.51761803,2.6347119)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;line-height:125%;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8bae83;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text817-9">
+      <path
+         d="m 46.435874,67.134118 -0.712736,4.017236 H 64.772616 L 63.023174,80.93527 H 44.006093 l -0.712735,4.017237 H 70.992854 L 74.13537,67.134118 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8bae83;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path903-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 105.69011,71.151354 0.71273,-4.017236 H 78.703344 l -0.712735,4.017236 h 4.082031 l -0.55075,3.207311 h -4.082031 l -0.712736,4.017236 h 4.082031 l -1.166295,6.576606 h 23.617461 l 0.71274,-4.017237 H 89.005613 l 0.453559,-2.559369 h 14.967448 l 0.71273,-4.017236 H 90.171908 l 0.55075,-3.207311 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8bae83;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path905-3"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 121.7266,67.134118 h -12.01931 l -0.71274,4.017236 h 12.01932 z m -5.02154,17.818389 h 8.65001 l 11.04741,-17.818389 h -8.65002 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8bae83;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path907-8"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 149.65283,67.134118 h -8.65002 l -2.00862,11.306578 h 11.04741 l 0.71273,-4.017237 h -2.39738 z m 19.11427,0 h -8.65002 l -7.93728,17.818389 h 8.68242 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8bae83;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path909-0"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 190.92666,74.358665 6.96537,-7.224547 h -25.78806 l -0.71274,4.017236 h 13.2504 l -13.2828,13.801153 h 9.36276 l 5.4427,-5.63709 3.04533,5.63709 h 7.45133 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8bae83;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path911-9"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 201.16408,67.134118 -0.71274,4.017236 h 17.94798 l -6.12304,13.801153 h 8.65001 l 7.90489,-17.818389 z m 33.83229,0.03389 c -1.0799,0 -2.04102,0.410363 -2.88334,1.231088 -0.84232,0.820726 -1.26348,1.760242 -1.26348,2.818546 0,0.820726 0.26997,1.511863 0.80992,2.073412 0.56155,0.539952 1.26349,0.809927 2.10581,0.809927 1.0799,0 2.03022,-0.410363 2.85095,-1.231089 0.84232,-0.842324 1.26348,-1.792638 1.26348,-2.850942 0,-0.820726 -0.26998,-1.501064 -0.80993,-2.041016 -0.53995,-0.53995 -1.23109,-0.809926 -2.07341,-0.809926 z m -0.93951,5.248325 c -0.49676,0 -0.89633,-0.172784 -1.1987,-0.518353 -0.28078,-0.345568 -0.37797,-0.76673 -0.29157,-1.263486 0.0864,-0.496754 0.33477,-0.917916 0.74513,-1.263486 0.43196,-0.367166 0.89632,-0.55075 1.39308,-0.55075 0.49675,0 0.88551,0.183584 1.16629,0.55075 0.30237,0.34557 0.41036,0.766732 0.32397,1.263486 -0.10799,0.496756 -0.36717,0.917918 -0.77753,1.263486 -0.41036,0.345569 -0.86392,0.518353 -1.36067,0.518353 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8bae83;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path913-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccscscscscsscscscccs" />
+    </g>
+    <g
+       aria-label="bmylrK"
+       transform="matrix(0.82155998,0,0,1.2361948,-0.92459768,0)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;line-height:125%;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a8e35;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text817">
+      <path
+         d="m 46.435874,67.134118 -0.712736,4.017236 H 64.772616 L 63.023174,80.93527 H 44.006093 l -0.712735,4.017237 H 70.992854 L 74.13537,67.134118 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a8e35;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path903"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 105.69011,71.151354 0.71273,-4.017236 H 78.703344 l -0.712735,4.017236 h 4.082031 l -0.55075,3.207311 h -4.082031 l -0.712736,4.017236 h 4.082031 l -1.166295,6.576606 h 23.617461 l 0.71274,-4.017237 H 89.005613 l 0.453559,-2.559369 h 14.967448 l 0.71273,-4.017236 H 90.171908 l 0.55075,-3.207311 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a8e35;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path905"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 121.7266,67.134118 h -12.01931 l -0.71274,4.017236 h 12.01932 z m -5.02154,17.818389 h 8.65001 l 11.04741,-17.818389 h -8.65002 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a8e35;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path907"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 149.65283,67.134118 h -8.65002 l -2.00862,11.306578 h 11.04741 l 0.71273,-4.017237 h -2.39738 z m 19.11427,0 h -8.65002 l -7.93728,17.818389 h 8.68242 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a8e35;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path909"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 190.92666,74.358665 6.96537,-7.224547 h -25.78806 l -0.71274,4.017236 h 13.2504 l -13.2828,13.801153 h 9.36276 l 5.4427,-5.63709 3.04533,5.63709 h 7.45133 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a8e35;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path911"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 201.16408,67.134118 -0.71274,4.017236 h 17.94798 l -6.12304,13.801153 h 8.65001 l 7.90489,-17.818389 z m 33.83229,0.03389 c -1.0799,0 -2.04102,0.410363 -2.88334,1.231088 -0.84232,0.820726 -1.26348,1.760242 -1.26348,2.818546 0,0.820726 0.26997,1.511863 0.80992,2.073412 0.56155,0.539952 1.26349,0.809927 2.10581,0.809927 1.0799,0 2.03022,-0.410363 2.85095,-1.231089 0.84232,-0.842324 1.26348,-1.792638 1.26348,-2.850942 0,-0.820726 -0.26998,-1.501064 -0.80993,-2.041016 -0.53995,-0.53995 -1.23109,-0.809926 -2.07341,-0.809926 z m -0.93951,5.248325 c -0.49676,0 -0.89633,-0.172784 -1.1987,-0.518353 -0.28078,-0.345568 -0.37797,-0.76673 -0.29157,-1.263486 0.0864,-0.496754 0.33477,-0.917916 0.74513,-1.263486 0.43196,-0.367166 0.89632,-0.55075 1.39308,-0.55075 0.49675,0 0.88551,0.183584 1.16629,0.55075 0.30237,0.34557 0.41036,0.766732 0.32397,1.263486 -0.10799,0.496756 -0.36717,0.917918 -0.77753,1.263486 -0.41036,0.345569 -0.86392,0.518353 -1.36067,0.518353 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3971px;font-family:GauFontAtomic;-inkscape-font-specification:'GauFontAtomic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a8e35;fill-opacity:1;stroke:none;stroke-width:1.29989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path913"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccscscscscsscscscccs" />
+    </g>
+  </g>
+</svg>
